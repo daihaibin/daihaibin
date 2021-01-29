@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-# 大家好，很高兴在这里认识大家
-# 我叫戴海斌，家乡福建泉州，爱好羽毛球和摄影
-# 最喜欢的一句话：好好学习，天天向上
+大家好，很高兴在这里认识大家
+我叫戴海斌，家乡福建泉州，爱好羽毛球和摄影
+最喜欢的一句话：好好学习，天天向上
 
 <!--
 **daihaibin/daihaibin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
